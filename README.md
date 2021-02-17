@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##What I do? 👨‍💻
-###Data Scientist
+## What I do? 👨‍💻
+### Data Scientist
 
