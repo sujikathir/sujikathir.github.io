@@ -26,7 +26,7 @@ const greeting = {
     "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1BWRlWEyHSDcgJRHWTw32A0Bxbd9nm5IV/view?usp=sharing",
-  portfolio_repository: "https://github.com/sujikathir/Master-Portfolio",
+  portfolio_repository: "https://github.com/sujikathir/sujikathir.github.io",
 };
 
 const socialMediaLinks = [
@@ -371,7 +371,7 @@ const experience = {
           location: "Trichy, Tamil Nadu",
           description:
             "I worked on competitive analysis, identified various methods, proposed solutions and developed innovative strategies to increase the reach of the company.  Provided technical support for existing reports, dashboards and other tools of business visualization.",
-          color: "#0879bf",
+          color: "#0879bf"
         },
         {
           title: "AWS Community Builder",
@@ -382,7 +382,7 @@ const experience = {
           location: "Work from Home",
           description:
             "I have worked on various cloud services through this program and received mentorship from AWS subject matter experts on a variety of topics, including content creation, community building, and securing speaking engagements.",
-          color: "#9b1578",
+          color: "#9b1578"
         },
       ],
     },
@@ -405,7 +405,7 @@ const experience = {
             "⚡ Optimising the parameter for Autocorrelation using criteria of Distribution, Variance and Residual mean.",
             "⚡ Used LSTM to train the model using Back propagation through time to address the sequence problem by means of memory blocks connected through layers (performed using SciPy environment with the Keras deep learning library).",
             "⚡ Reconstructed the code to run in a Graphical User Interface for easy use by the end user." ],
-          color: "#ee3c26",
+          color: "#ee3c26"
         },
         {
           title: "Data Science and Analytics Internship",
@@ -419,7 +419,7 @@ const experience = {
             ["⚡ Classify the attendance performance report based on the clustering methods such as centroid based, distribution based and density-based clustering formulated by students' multilevel of optimization using central vector.",
              "⚡ Enhance with EM algorithm to find maximum likelihood estimates of parameters in probabilistic models (i.e. to group students according to their performance). ",
              "⚡ Execute Outlier analysis and finalize the features that profoundly influence the performance for decision making that is likely to effect on student’s learning outcomes."],
-          color: "#0071C5",
+          color: "#0071C5"
         },
         {
           title: "Data Science Internship",
@@ -432,7 +432,7 @@ const experience = {
           description:
             ["⚡ Extracted data using SQL from BigQuery, followed by Data Pre-processing to find meaningful insights and created an Exploratory Data Analysis sheet.", 
             " ⚡ Applied Hidden Markov model and coded the Viterbi Algorithm to predict their app event sequences based on data of 18000 users extracted previously."],
-          color: "#0081C5",
+          color: "#0081C5"
         },
         {
           title: "Student Internship",
@@ -442,7 +442,7 @@ const experience = {
           duration: "Dec 2019 - Jan 2020",
           location: "Chennai",
           description: "Focused on the Principles of operation inside the Airport with various Electronics and Communication Systems such as: Technology used in Control Room & Voice control system, Navigation, Security and Surveillance technology, Radar and Very High Frequency(VHF) Units",
-          color: "#fe3c26",
+          color: "#fe3c26"
         },
 
       ],
@@ -459,7 +459,7 @@ const experience = {
           location: "Trichy, TamilNadu",
           description:
             "U&I is a volunteer-driven charitable organization based in Bangalore, India. I have taught under-priviliged students under this program.",
-          color: "#4285F4",
+          color: "#4285F4"
         },
         {
           title: "Developer Students Club Member",
@@ -471,7 +471,7 @@ const experience = {
           location: "Thanjavur, Tamil Nadu",
           description:
             "Part of the well established developer club in Sastra college which is directly associated with Google Developers. We have developed interdisciplinary projects under the membership of this club. Many workshops and activities on Android Application Development, Flutter and React JS and Machine Learning have been conducted  .",
-          color: "#0C9D58",
+          color: "#0C9D58"
         },
         {
           title: "Developer Program Member",
@@ -482,7 +482,7 @@ const experience = {
           location: "Work From Home",
           description:
             "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-          color: "#181717",
+          color: "#181717"
         },
       ],
     },
