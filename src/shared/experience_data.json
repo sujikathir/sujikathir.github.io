@@ -1,130 +1,52 @@
 {
-	"title": "Experience",
-	"subtitle": "Work, Internship and Volunteership",
-	"description":
-		"I have worked with many evolving startups as ML and Data Science Developer, Business associate and manager. I have also worked with some well established companies mostly as Business Analyst. I love organising events and that is why I am also involved with many opensource communities as a representative.",
-	"header_image_path": "experience.svg",
-	"sections": [
-		{
-			"title": "Work",
-			"experiences": [
-				{
-					"title": "Business Analyst",
-					"company": "Prime Group of Companies",
-					"logo_path": "primemarketing.png",
-					"duration": "Oct 2019 - May 2020",
-					"location": "Trichy,Tamil Nadu",
-					"description":
-						"I worked on competitive analysis, identified various methods, proposed solutions and developed innovative strategies to increase the reach of the company.  Provided technical support for existing reports, dashboards and other tools of business visualization.",
-					"color": "#9b1578"
-				},
-				{
-					"title": "AWS Community Builder",
-					"company": "AWS",
-					"company_url": "https://aws.amazon.com/",
-					"logo_path": "aws-logo.png",
-					"duration": "Dec 2020 - Present",
-					"location": "Work from Home",
-					"description":
-						"I have worked on various cloud services through this program and received mentorship from AWS subject matter experts on a variety of topics, including content creation, community building, and securing speaking engagements.",
-					"color": "#fc1f20"
-				}
-			]
-		},
-		{
-			"title": "Internships",
-			"experiences": [
-				{
-					"title": "Data Science Research Intern",
-					"company": "NATIONAL UNIVERSITY OF SINGAPORE",
-					"company_url": "https://nus.edu.sg/",
-					"logo_path": "nus.png",
-					"duration": "Oct 2020 - Present",
-					"location": "Work from Home",
-					"description": [
-					  "### Forecasting for Time Series Data",
-					  "⚡ Detect the trend and seasonality from the historical data first based on an additive model where non-linear trends are fit with time seasonality by FB prophet (robust to missing data, shifts in the trend and handles outliers)",
-					  "⚡ Adopting ARIMA model by implementing process such as Model identification, Parameter estimation, Model Checking to achieve a desirable level of fit.",
-					  "⚡ Perform exponential smoothing on the model to accurately predict the future by means of the trend and seasonality in the historical data.",
-					  "⚡ Compute the minimized AIC using step-wise search and generate lag of correlation and reducing the MSE.",
-					  "⚡ Optimising the parameter for Autocorrelation using criteria of Distribution, Variance and Residual mean.",
-					  "⚡ Used LSTM to train the model using Back propagation through time to address the sequence problem by means of memory blocks connected through layers (performed using SciPy environment with the Keras deep learning library).",
-					  "⚡ Reconstructed the code to run in a Graphical User Interface for easy use by the end user." ],
-					"color": "#ee3c26",
-				  },
-				  {
-					"title": "Data Science and Analytics Internship",
-					"company": "THE SPARKS FOUNDATION",
-					"company_url": "https://www.thesparksfoundationsingapore.org/",
-					"logo_path": "sparks.jpg",
-					"duration": "Sept 2020 - Oct 2020",
-					"location": "Work From Home",
-					"description":
-					  ["⚡ Classify the attendance performance report based on the clustering methods such as centroid based, distribution based and density-based clustering formulated by students' multilevel of optimization using central vector.",
-					   "⚡ Enhance with EM algorithm to find maximum likelihood estimates of parameters in probabilistic models (i.e. to group students according to their performance). ",
-					   "⚡ Execute Outlier analysis and finalize the features that profoundly influence the performance for decision making that is likely to effect on student’s learning outcomes."],
-					"color": "#0071C5"
-				  },
-				  {
-					"title": "Data Science Internship",
-					"company": "OkCredit",
-					"company_url":"https://www.linkedin.com/company/okcredit/?originalSubdomain=in",
-					"logo_path": "okcredit.jpg",
-					"duration": "May 2020 - July 2020",
-					"location": "Work From Home",
-					"description":
-					  ["⚡ Extracted data using SQL from BigQuery, followed by Data Pre-processing to find meaningful insights and created an Exploratory Data Analysis sheet.", 
-					  " ⚡ Applied Hidden Markov model and coded the Viterbi Algorithm to predict their app event sequences based on data of 18000 users extracted previously."],
-					"color": "#0081C5"
-				  },
-				  {
-					"title": "Student Internship",
-					"company": "Airport Authority of India",
-					"company_url": "https://www.aai.aero/",
-					"logo_path": "aai.png",
-					"duration": "Dec 2019 - Jan 2020",
-					"location": "Chennai",
-					"description": "Focused on the Principles of operation inside the Airport with various Electronics and Communication Systems such as: Technology used in Control Room & Voice control system, Navigation, Security and Surveillance technology, Radar and Very High Frequency(VHF) Units",
-					"color": "#fe3c26"
-				  }
-			]
-		},
-		{
-			"title": "Volunteerships",
-			"experiences": [{
-				"title": "Student Mentor",
-				"company": "U&I",
-				"company_url": "https://www.uandi.org.in/",
-				"logo_path": "u&i.png",
-				"duration": "April 2020 - Nov 2020",
-				"location": "Trichy, TamilNadu",
-				"description":
-				  "U&I is a volunteer-driven charitable organization based in Bangalore, India. I have taught under-priviliged students under this program.",
-				"color": "#4285F4"
-			  },
-			  {
-				"title": "Developer Students Club Member",
-				"company": "DSC Sastra",
-				"company_url":
-				  "https://dscsastra.com/",
-				"logo_path": "dsc_logo.png",
-				"duration": "Nov 2020 - Present",
-				"location": "Thanjavur, Tamil Nadu",
-				"description":
-				  "Part of the well established developer club in Sastra college which is directly associated with Google Developers. We have developed interdisciplinary projects under the membership of this club. Many workshops and activities on Android Application Development, Flutter and React JS and Machine Learning have been conducted  .",
-				"color": "#0C9D58"
-			  },
-			  {
-				"title": "Developer Program Member",
-				"company": "Github",
-				"company_url": "https://github.com/",
-				"logo_path": "github_logo.png",
-				"duration": "July 2019 - PRESENT",
-				"location": "Work From Home",
-				"description":
-				  "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-				"color": "#181717"
-			  }]
-		}
-	]
+  "description": "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+  "header_image_path": "experience.svg",
+  "sections": [
+    {
+      "title": "Work",
+      "experiences": [
+        {
+          "title": "Android and ML Developer",
+          "company": "Muffito Incorporation",
+          "company_url": "https://www.linkedin.com/company/muffito-inc/about/",
+          "logo_path": "muffito_logo.png",
+          "duration": "May 2018 - Oct 2018",
+          "location": "Pune, Maharashtra",
+          "description": "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+          "color": "#9b1578"
+        },
+        {
+          "title": "Android Developer",
+          "company": "FreeCopy Pvt. Ltd.",
+          "company_url": "https://www.linkedin.com/company/freecopy/about/",
+          "logo_path": "freecopy_logo.png",
+          "duration": "Nov 2017 - Dec 2017",
+          "location": "Ahmedabad, Gujarat",
+          "description": "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+          "color": "#fc1f20"
+        }
+      ]
+    },
+    {
+      "title": "Internships",
+      "experiences": [
+        {
+          "title": "Data Science Research Intern",
+          "company": "Delhivery Pvt. Ltd.",
+          "company_url": "https://www.delhivery.com/",
+          "logo_path": "delhivery_logo.png",
+          "duration": "May 2019 - Sept 2019",
+          "location": "Gurgaon, Haryana",
+          "description": "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+          "color": "#ee3c26"
+        }
+      ]
+    },
+    {
+      "title": "Volunteerships",
+      "experiences": []
+    }
+  ],
+  "subtitle": "Work, Internship and Volunteership",
+  "title": "Experience"
 }
