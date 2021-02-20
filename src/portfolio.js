@@ -26,7 +26,7 @@ const greeting = {
     "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1BWRlWEyHSDcgJRHWTw32A0Bxbd9nm5IV/view?usp=sharing",
-  portfolio_repository: "https://sujikathir.github.io/",
+  portfolio_repository: "https://github.com/sujikathir/sujikathir.github.io",
 };
 
 const socialMediaLinks = [
