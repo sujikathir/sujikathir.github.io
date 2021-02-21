@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f22dc10a76a9f21d62217bd67128196",
+    "revision": "0b296a8b32499cbb16efb68faa4b2d94",
     "url": "./index.html"
   },
   {
-    "revision": "97a3fd2976db9e837e90",
+    "revision": "68140f4d8c80ca8572ae",
     "url": "./static/css/main.3c1a73a5.chunk.css"
   },
   {
-    "revision": "9a8f95b1709de317f59f",
-    "url": "./static/js/2.c53d4e78.chunk.js"
+    "revision": "45d2cbe1615e1737d3bf",
+    "url": "./static/js/2.74fbd5ee.chunk.js"
   },
   {
-    "revision": "97a3fd2976db9e837e90",
-    "url": "./static/js/main.5a01c612.chunk.js"
+    "revision": "68140f4d8c80ca8572ae",
+    "url": "./static/js/main.1f008d78.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "./static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "00c6ac438d3c4beab922985f22d64806",
+    "url": "./static/media/Feelproud.00c6ac43.png"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -52,6 +56,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
+    "revision": "cf179a3c716621f27636709732cb644e",
+    "url": "./static/media/U-M.cf179a3c.png"
+  },
+  {
+    "revision": "1beb86c4ea18f75fbaa7edee65b4d6e8",
+    "url": "./static/media/aai.1beb86c4.png"
+  },
+  {
     "revision": "3b021f8ffcf9f323ea72abc28382e234",
     "url": "./static/media/address_image.3b021f8f.svg"
   },
@@ -64,8 +76,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/animated_logo.52e0714e.svg"
   },
   {
+    "revision": "907bb552a84ad254db6675c6b608f244",
+    "url": "./static/media/aws-logo.907bb552.png"
+  },
+  {
     "revision": "b6b12c7d07e0569e771c8aedf81a7767",
     "url": "./static/media/blogs_image.b6b12c7d.svg"
+  },
+  {
+    "revision": "fb2b1c9975e6bf3e77a84836eba70145",
+    "url": "./static/media/ccbr.fb2b1c99.png"
   },
   {
     "revision": "dfcb7a585547c0b125d208b980d6f57f",
@@ -82,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "434d2b012c3efc3da1ef90549a50f46b",
     "url": "./static/media/data_science.434d2b01.svg"
+  },
+  {
+    "revision": "8bd4c00a3078a9c3416dd05f4cf69a90",
+    "url": "./static/media/datacamp.8bd4c00a.png"
   },
   {
     "revision": "7a9b2eb087350abacd2587dd578226c7",
@@ -164,6 +188,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/fa-solid-900.c2801fb4.svg"
   },
   {
+    "revision": "01ca14ba71f202344fe539229fb7be32",
+    "url": "./static/media/feelingProud.01ca14ba.png"
+  },
+  {
     "revision": "a73310ea0ad8aebedb65b3106024427a",
     "url": "./static/media/feelingProud.a73310ea.svg"
   },
@@ -204,6 +232,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/jsFramework.b05ae5b5.svg"
   },
   {
+    "revision": "8c3ff11b0b059f2a32842904cce86432",
+    "url": "./static/media/kpmg.8c3ff11b.png"
+  },
+  {
     "revision": "4ba886bafb9ff0a5b71b800c47f45d90",
     "url": "./static/media/legato_logo.4ba886ba.png"
   },
@@ -218,6 +250,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cd7077f7a08bffdb11e13093424e13fd",
     "url": "./static/media/nptel_logo.cd7077f7.png"
+  },
+  {
+    "revision": "a8198fee301790bb57f360c3a6259c99",
+    "url": "./static/media/nus.a8198fee.png"
+  },
+  {
+    "revision": "3f4aceb4a9183049e5597f094280abe7",
+    "url": "./static/media/okcredit.3f4aceb4.jpg"
+  },
+  {
+    "revision": "3f4aceb4a9183049e5597f094280abe7",
+    "url": "./static/media/okcredit.3f4aceb4.png"
   },
   {
     "revision": "6e7dc5ad476dd2d57600bca9521f3a5d",
@@ -236,8 +280,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/pwa.bd5f4148.png"
   },
   {
+    "revision": "c660cd841de311d0992cccc7b31b3ce8",
+    "url": "./static/media/raspberry-pi-logo.c660cd84.png"
+  },
+  {
+    "revision": "b40255e429d1eb407807605fcecbe3b8",
+    "url": "./static/media/sparks.b40255e4.jpg"
+  },
+  {
+    "revision": "14ffb3dd36b82a62a8fcf60decff2e58",
+    "url": "./static/media/srm.14ffb3dd.png"
+  },
+  {
     "revision": "da0e7c80b90df28dd3a590c80f3d4970",
     "url": "./static/media/stanford_logo.da0e7c80.png"
+  },
+  {
+    "revision": "a0bd8a79f01a0d871efaaa9dd939ad9c",
+    "url": "./static/media/suji.a0bd8a79.jpg"
+  },
+  {
+    "revision": "034e41b246cbc24cc159f426d82e9170",
+    "url": "./static/media/sujithra.034e41b2.png"
   },
   {
     "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
@@ -246,6 +310,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b48e86c9a956d3a3a32ca4a5ae05ddc7",
     "url": "./static/media/talksCardBackAlt.b48e86c9.svg"
+  },
+  {
+    "revision": "7a6cf7022836ad86eeac78391b7e78ad",
+    "url": "./static/media/u&i.7a6cf702.png"
   },
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
