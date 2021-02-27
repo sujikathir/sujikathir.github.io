@@ -278,7 +278,7 @@ const certifications = {
       subtitle: "- Andrew Ng",
       logo_path: "stanford_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/KSDUUX6T9Y85",
+        "https://www.coursera.org/account/accomplishments/specialization/certificate/47N8J35VXLMR",
       alt_name: "Stanford University",
       color_code: "#8C151599",
     },
@@ -378,17 +378,6 @@ const experience = {
             "I worked on competitive analysis, identified various methods, proposed solutions and developed innovative strategies to increase the reach of the company.  Provided technical support for existing reports, dashboards and other tools of business visualization.",
           color: "#0879bf",
         },
-        {
-          title: "AWS Community Builder",
-          company: "AWS",
-          company_url: "https://aws.amazon.com/",
-          logo_path: "aws-logo.png",
-          duration: "Dec 2020 - Present",
-          location: "Work from Home",
-          description:
-            "I have worked on various cloud services through this program and received mentorship from AWS subject matter experts on a variety of topics, including content creation, community building, and securing speaking engagements.",
-          color: "#9b1578",
-        },
       ],
     },
     {
@@ -458,6 +447,17 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
+          title: "AWS Community Builder",
+          company: "AWS",
+          company_url: "https://aws.amazon.com/",
+          logo_path: "aws-logo.png",
+          duration: "Dec 2020 - Present",
+          location: "Work from Home",
+          description:
+            "I have worked on various cloud services through this program and received mentorship from AWS subject matter experts on a variety of topics, including content creation, community building, and securing speaking engagements.",
+          color: "#9b1578",
+        },
+        {
           title: "Student Mentor",
           company: "U&I",
           company_url: "https://www.uandi.org.in/",
@@ -487,7 +487,7 @@ const experience = {
           duration: "July 2019 - PRESENT",
           location: "Work From Home",
           description:
-            "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
+            "I am actively contributing to many opensource projects. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
           color: "#181717",
         },
       ],
