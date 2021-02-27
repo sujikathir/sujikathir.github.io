@@ -256,7 +256,7 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Srm Trp Engineering College",
+      title: "Srm university",
       subtitle: "B.E. in Electronics and Communication Engineering",
       logo_path: "srm.png",
       alt_name: "SRM-TRPEC",
@@ -266,7 +266,7 @@ const degrees = {
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Internet of Things.",
         "⚡ I was selected for various competitions representing the college. I have lead the cultural and technical team for symposiums.",
       ],
-      website_link: "https://trp.srmtrichy.edu.in/",
+      website_link: "https://www.srmist.edu.in/",
     },
   ],
 };
